@@ -1,6 +1,10 @@
 # Character counter | ▮▮▮▮▮▮▮▮
 
-Simple code just to try out and Binary Tree on Golang and count characters to train openning a file and reading it, as well as printing out stuff more pretty formated.
+Simple code just to try out and Binary Tree on Golang.
+
+Count characters to train openning a file and reading it, as well as printing out stuff more pretty formated.
+
+Using a simple logic of max number of repeated chars and casting to float and then int to floor and create the repetitions to print it in kind of histogram form for a more didatic value.
 
 ## Running
 
